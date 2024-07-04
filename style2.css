@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(245, 244, 231);
+    background-color: rgb(255, 187, 235);
 }
 
 .header {
@@ -109,7 +109,7 @@ img {
     margin: 0.5% 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: 4px solid #9a9649;
+    border: 4px solid #923f84;
 }
 
 .produtos img {
@@ -117,11 +117,11 @@ img {
 }
 
 .produtos li:hover {
-    border-color: #C78C19;
+    border-color: #aa5b9d;
 }
 
 .produtos li:active {
-    border-color: #fc1111;
+    border-color: #291825;
 }
 
 .produtos li:hover h2 {
