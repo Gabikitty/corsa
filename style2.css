@@ -127,3 +127,7 @@ img {
 .produtos li:hover h2 {
     font-size: 42px;
 }
+
+.produtos img {
+    height: 80px;
+}
